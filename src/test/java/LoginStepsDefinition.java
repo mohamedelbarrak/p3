@@ -11,12 +11,12 @@ import org.testng.annotations.AfterTest;
 public class LoginStepsDefinition {
     WebDriver driver;
     String WebDriverType = "webdriver.chrome.driver";
-    String WebDriverPath = "C:/melbarrak/Applications/intellij selenium jar and drivers/drivers/chromdriver/chromedriver.exe";
+    String WebDriverPath = "C:/melbarrak/Applications/intellijSeleniumJarAndDrivers/chromedriver_win32/chromedriver.exe";
     String sqliUrl = "https://app.sqli.com/Login/?LaPage=https://app.sqli.com";
 
     @Before
     public void prepareDriver(){
-        System.setProperty(WebDriverType, WebDriverPath);
+        System.setProperty("webdriver.chrome.driver", WebDriverPath);
         driver = new ChromeDriver();
         //driver.get(sqliUrl);
     }
@@ -28,6 +28,8 @@ public class LoginStepsDefinition {
     @And("user navigates to {string} Page")
     public void userNavigatesToPage(String pageName) {
         driver.get("https://app.sqli.com/Login/?LaPage=https://app.sqli.com");
+        System.out.println("user navigates to {string} Page: " + pageName);//user navigates to {string} Page: Login
+
         //if("login".equalsIgnoreCase(pageName)){
         //    driver.findElement(By.id("...")).click();
         //}
@@ -59,5 +61,13 @@ public class LoginStepsDefinition {
     @AfterTest
     public void terminateBrowser(){
         //driver.quit();
+    }
+
+    @Then("Error message is displayed")
+    public void errorMessageIsDisplayed() {
+    }
+
+    @Then("^success message is displayed$")
+    public void success_message_is_displayed() throws Throwable {
     }
 }
