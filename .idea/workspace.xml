@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c2_good">
-      <change beforePath="$PROJECT_DIR$/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Login.feature" afterDir="false" />
-    </list>
+    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c3_good" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="b1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,6 +110,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664278453948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="c3_good">
+      <created>1664278530276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664278530276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="c3_good">
+      <created>1664278632114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664278632114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +168,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -174,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="c1" />
     <MESSAGE value="c2_good" />
-    <option name="LAST_COMMIT_MESSAGE" value="c2_good" />
+    <MESSAGE value="c3_good" />
+    <option name="LAST_COMMIT_MESSAGE" value="c3_good" />
   </component>
 </project>
