@@ -10,6 +10,7 @@ Feature: Login Feature
     Examples:
       |username  |password|
       |melbarrak|Test123|
+      |melbarrak|Test123|
 
 
   Scenario: Login with correct credentials
