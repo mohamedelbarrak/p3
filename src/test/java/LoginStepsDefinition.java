@@ -42,21 +42,6 @@ public class LoginStepsDefinition {
         driver.findElement(By.id("button_submit")).click();
     }
 
-    /*
-    @Then("^Error message is displayed$")
-    public void error_message_is_displayed() throws Throwable {
-        driver.findElement(By.className("error-form-user")).isDisplayed();
-    }
-
-    @And("^user navigates to \"([^\"]*)\" Page$")
-    public void user_navigates_to_something_page(String strArg1) throws Throwable {
-
-    }
-
-    @Then("success message is displayed")
-    public void successMessageIsDisplayed() {
-    }
-    */
 
     @AfterTest
     public void terminateBrowser(){

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c2_good">
-      <change beforePath="$PROJECT_DIR$/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Login.feature" afterDir="false" />
+    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c4_good">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginStepsDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginStepsDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +113,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664278453948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="c4_good">
+      <created>1664279689894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279689894</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +163,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -174,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="c1" />
     <MESSAGE value="c2_good" />
-    <option name="LAST_COMMIT_MESSAGE" value="c2_good" />
+    <MESSAGE value="c4_good" />
+    <option name="LAST_COMMIT_MESSAGE" value="c4_good" />
   </component>
 </project>
