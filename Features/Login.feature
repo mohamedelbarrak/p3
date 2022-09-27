@@ -12,6 +12,7 @@ Feature: Login Feature
       |melbarrak|Test123|
       |melbarrak|Test123|
       |melbarrak|Test123|
+      |melbarrak|Test123|
 
 
   Scenario: Login with correct credentials

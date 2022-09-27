@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c3_good" />
+    <list default="true" id="c5defcab-b4ce-4c9c-b849-b025ed290c6d" name="Changes" comment="c4_good">
+      <change beforePath="$PROJECT_DIR$/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Login.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="b1" />
+        <entry key="$PROJECT_DIR$" value="b3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664278632114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="c4_good">
+      <created>1664279395003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664279395003</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +183,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="b1" />
+                        <option value="b3" />
                       </list>
                     </value>
                   </entry>
@@ -190,6 +199,7 @@
     <MESSAGE value="c1" />
     <MESSAGE value="c2_good" />
     <MESSAGE value="c3_good" />
-    <option name="LAST_COMMIT_MESSAGE" value="c3_good" />
+    <MESSAGE value="c4_good" />
+    <option name="LAST_COMMIT_MESSAGE" value="c4_good" />
   </component>
 </project>
